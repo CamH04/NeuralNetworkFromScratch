@@ -1,0 +1,205 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.63.7",
+	"files": [
+		{
+			"noteId": "Tek8SJWJDL1R",
+			"notePath": [
+				"Tek8SJWJDL1R"
+			],
+			"isClone": false,
+			"title": "NN",
+			"notePosition": 220,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"format": "markdown",
+			"dataFileName": "NN.md",
+			"dirFileName": "NN",
+			"noImport": false,
+			"attributes": [],
+			"attachments": [],
+			"children": [
+				{
+					"noteId": "jicq1VFAxkm3",
+					"notePath": [
+						"Tek8SJWJDL1R",
+						"jicq1VFAxkm3"
+					],
+					"isClone": false,
+					"title": "Cost intuition",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "Cost intuition.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": []
+				},
+				{
+					"noteId": "ZBdfsDOYbj0Q",
+					"notePath": [
+						"Tek8SJWJDL1R",
+						"ZBdfsDOYbj0Q"
+					],
+					"isClone": false,
+					"title": "Maths Stuff",
+					"notePosition": 50,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "Maths Stuff.md",
+					"dirFileName": "Maths Stuff",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "EhIK3SylAZMh",
+							"notePath": [
+								"Tek8SJWJDL1R",
+								"ZBdfsDOYbj0Q",
+								"EhIK3SylAZMh"
+							],
+							"isClone": false,
+							"title": "Matrices (Maths)",
+							"notePosition": 0,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Matrices (Maths).md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [
+								{
+									"attachmentId": "choqYd9xPVoM",
+									"title": "0bQlGhJO9i1TlgqI6.png",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "Matrices (Maths)_0bQlGhJO9i1Tl.jpg"
+								},
+								{
+									"attachmentId": "yn52alDRqtEv",
+									"title": "0mTbT46WLC126N4EW.png",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "Matrices (Maths)_0mTbT46WLC126.jpg"
+								}
+							]
+						},
+						{
+							"noteId": "dgEo3GxWNlEv",
+							"notePath": [
+								"Tek8SJWJDL1R",
+								"ZBdfsDOYbj0Q",
+								"dgEo3GxWNlEv"
+							],
+							"isClone": false,
+							"title": "Transposing Matrices (Maths)",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Transposing Matrices (Maths).md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [
+								{
+									"attachmentId": "JGrd6ifA3JGE",
+									"title": "0dXuXVJGkMbPc1MFK.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "Transposing Matrices (Maths)_0.png"
+								},
+								{
+									"attachmentId": "DrBqQ8RGIeRV",
+									"title": "0dpOLCCE7RpiblNY6.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "1_Transposing Matrices (Maths)_0.png"
+								}
+							]
+						},
+						{
+							"noteId": "uzmsBS0Juq9B",
+							"notePath": [
+								"Tek8SJWJDL1R",
+								"ZBdfsDOYbj0Q",
+								"uzmsBS0Juq9B"
+							],
+							"isClone": false,
+							"title": "Derivitives",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Derivitives.md",
+							"dirFileName": "Derivitives",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "nNiCWcUngciC",
+									"notePath": [
+										"Tek8SJWJDL1R",
+										"ZBdfsDOYbj0Q",
+										"uzmsBS0Juq9B",
+										"nNiCWcUngciC"
+									],
+									"isClone": false,
+									"title": "Power rule",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Power rule.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"noteId": "WGq2taUNh9iZ",
+					"notePath": [
+						"Tek8SJWJDL1R",
+						"WGq2taUNh9iZ"
+					],
+					"isClone": false,
+					"title": "neuron",
+					"notePosition": 60,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "neuron.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": []
+				}
+			]
+		}
+	]
+}
