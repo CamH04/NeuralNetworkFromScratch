@@ -4,6 +4,10 @@
 #include <vector>
 #include <neuron.h>
 
+using std::vector;
+
+//Layers : input - hidden - output
+
 class layer{
     public:
         vector<neuron> Neurons;
