@@ -14,6 +14,7 @@ class neuron{
         double Bias;
         vector<double> Weights;
         double Output;
+        double Gradient;
 
 };
 
