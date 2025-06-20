@@ -16,6 +16,11 @@ class neuron{
         double Output;
         double Gradient;
 
+        double InitializeRandom();
+
+        neuron();
+        neuron(int previousLayerNeuronsNumber);
+
 };
 
 #endif

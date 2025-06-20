@@ -8,6 +8,8 @@
 class neural_network{
     public:
         vector<layer> Layers;
+        neural_network();
+        neural_network(const std::vector<int>& layersData);
 
 };
 

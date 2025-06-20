@@ -11,6 +11,9 @@ using std::vector;
 class layer{
     public:
         vector<neuron> Neurons;
+
+        layer();
+        layer(int neuronsNumber, int previousLayerNeuronsNumber);
 };
 
 #endif
