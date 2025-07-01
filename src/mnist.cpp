@@ -12,20 +12,28 @@ vector<Sample> MNIST::LoadImages(const string& imgFileName, const string& labelF
     ifstream labelReader(labelFileName, ios::binary);
 
     if (!imageReader || !labelReader) {
-        throw std::runtime_error("Failed to open files.");
+       if (!imageReader.is_open()) {
+            std::cout << "Error: Could not open image file: " << imgFileName << std::endl;
+        }
+        if (!labelReader.is_open()) {
+            std::cout << "Error: Could not open label file: " << labelFileName << std::endl;
+        }
+        if (!imageReader || !labelReader) {
+            throw std::runtime_error("Failed to open MNIST dataset files.");
+        }
     }
 
     char byte4[4];
 
-    // Skip magic number and number of images
+    // skip magic number and number of images
     imageReader.read(byte4, 4);
     imageReader.read(byte4, 4);
 
-    // Skip rows and cols (we assume 28x28 = 784)
+    // skip rows and cols (we assume 28x28 = 784)
     imageReader.read(byte4, 4);
     imageReader.read(byte4, 4);
 
-    // Skip label file magic number and label count
+    // skip label file magic number and label count
     labelReader.read(byte4, 4);
     labelReader.read(byte4, 4);
 
