@@ -8,6 +8,7 @@ using std::vector;
 // Wight : how much influence a neurons output has on the next neuron
 // Bias :  shifts the output of a neuron for a better fit for the NN
 
+#define M_PI 3.14159265358979323846
 
 class neuron{
     public:
